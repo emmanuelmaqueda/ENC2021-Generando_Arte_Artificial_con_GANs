@@ -1,7 +1,7 @@
 # ENC2021 Generando Arte Artificial con GAN's
 
   
-## Tutorial - ENC 2021 
+## [Tutorial ENC2021](http://computo.fismat.umich.mx/enc2021/tutoriales/GAN.pdf)
 
 ![image](https://user-images.githubusercontent.com/64985126/127394241-6ce7df81-02b3-4c85-909a-0bbdf0043086.png)
 ![image](https://user-images.githubusercontent.com/64985126/127394299-dbc93063-b790-4731-aba5-e1f94bc2fc44.png)
