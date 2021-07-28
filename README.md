@@ -23,4 +23,5 @@ se enfocan en la generación de nuevas obras artísticas a través de éste tipo
 estilo de arte de Monet y Frida Kahlo?. Con un aproximado podemos responder a estas
 preguntas alimentando el generador de una GAN con obras de Rembrandt o de Monet y Frida 
 Kahlo y dando salida a imágenes nuevas a raíz de las iniciales. Lo mismo puede hacerse con
-fotografías, con diseños etc
+fotografías, con diseños etc.
+[Más información](http://computo.fismat.umich.mx/enc2021/tutoriales/GAN.pdf)
