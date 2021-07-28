@@ -1,5 +1,12 @@
-# ENC2021-Generando_Arte_Artificial_con_GANs
-Tutorial - ENC 2021
+# ENC2021 Generando Arte Artificial con GAN's
+<center> 
+  
+## Tutorial - ENC 2021 
+
+</center>
+![image](https://user-images.githubusercontent.com/64985126/127394241-6ce7df81-02b3-4c85-909a-0bbdf0043086.png)
+![image](https://user-images.githubusercontent.com/64985126/127394299-dbc93063-b790-4731-aba5-e1f94bc2fc44.png)
+
 
 Las redes neuronales en general son una técnica de la IA la cuál se encuentra en auge en el
 campo y son utilizadas usualmente, en especifico, las redes generativas adversarias (GANs) son
