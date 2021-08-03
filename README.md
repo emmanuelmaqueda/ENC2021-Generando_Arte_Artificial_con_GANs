@@ -33,5 +33,16 @@ fotografías, con diseños etc.
 
 Para prepararse para el tutorial deberá tenerse descargado un dataset con el cúal se entrenará la red neuronal GAN, decidimos dar libertad en este sentido así que ponemos a disponibilidad dos conjuntos de datos para generación de imágenes: 
 
-<b> 1.1 Monet </b>
-Conjunto de aproximadamente 900 imágenes de obras artísticas de Monet junto con algunas fotografías de imágenes reales de paisajes. Con este dataset podremos generar imágenes artificiales de paisajes al estilo del arte de Monet
+<b> 1.1 Monet Dataset</b>
+
+Conjunto de aproximadamente 900 imágenes de obras artísticas de Monet junto con algunas fotografías de imágenes reales de paisajes. Con este dataset podremos generar imágenes artificiales de paisajes con el estilo artístico de Monet.
+
+[Descargar](https://turing.iimas.unam.mx/~ivanvladimir/gans/monet.zip)
+
+<b> 1.2 CelebA Dataset</b>
+
+CelebFaces Attributes Dataset (CelebA) es un conjunto de datos de atributos faciales a gran escala con más de 200.000 imágenes de celebridades, esta es una versión reducida de dataset con alrededor de 1000 imagenes. Las imágenes de este conjunto de datos cubren grandes variaciones de pose y desorden de fondo. Con este dataset podremos generar imágenes de rostros artificialmente.
+
+[Descargar](https://turing.iimas.unam.mx/~ivanvladimir/gans/celeba.zip)
+
+<b> Al tener descargado el archivo comprimido debe subirse dicho archivo al drive personal en una carpeta facilmente ubicable junto a la notebook 'Artificial_Art_GAN's' que esta en este Github (se recomienda crear una carpeta 'data_tutorial' con la notebook y el archivo comprimido del dataset elegido</b>
