@@ -61,3 +61,20 @@ Al seleccionar la opción obtendrá una ventana emergente como la que se muestra
 
 ![image](https://user-images.githubusercontent.com/64985126/128063503-b4ed7dd1-d90e-41f8-9be9-2160c91ef29c.png)
 
+Para verificar que la configuración fue exitosa podemos acudir a la esquina superior derecha donde encontraremos un pequeño botón que referencía a la memoria RAM y el HD de nuestra máquina virtual, si lo presionamos abrira una ventana donde obtendremos las estadísticas del uso de los recursos computacionales de la misma, si la configuración fue exitosa esta ventana hara referencia a que esta en uso una GPU del equipo de Google.
+
+![image](https://user-images.githubusercontent.com/64985126/128063769-8dec528f-8c70-404b-83fe-e78eacf1d062.png)
+
+---
+
+<b> 3. Recomendaciones finales </b>  
+
+* Dentro de este mismo repositorio se encuentra un documento llamado 'Apuntes - Introducción a las redes neuronales' el cuál es una breve introducción a las redes neuronales y su funcionamiento, puede consultarse previo al tutorial para tener mas contexto de la temática del mismo.
+
+* Si se tiene un problema con alguno de los pasos antes mencionado no dude en contactarnos para ayudar a solucionarlo 
+
+[Contacto](mailto:dmaqueda71@gmail.com)
+
+<b> ¡ Nos vemos en unos días en el ENC 2021 ! &#128521; </b> 
+
+
