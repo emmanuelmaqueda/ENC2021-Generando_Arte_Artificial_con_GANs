@@ -41,10 +41,18 @@ Conjunto de aproximadamente 900 imágenes de obras artísticas de Monet junto co
 
 <b> 1.2 CelebA Dataset</b>
 
-CelebFaces Attributes Dataset (CelebA) es un conjunto de datos de atributos faciales a gran escala con más de 200.000 imágenes de celebridades, esta es una versión reducida de dataset con alrededor de 1000 imagenes. Las imágenes de este conjunto de datos cubren grandes variaciones de pose y desorden de fondo. Con este dataset podremos generar imágenes de rostros artificialmente.
+CelebFaces Attributes Dataset (CelebA) es un conjunto de datos de atributos faciales a gran escala con más de 200.000 imágenes de celebridades, esta es una versión reducida de dataset con alrededor de 1000 imágenes. Las imágenes de este conjunto de datos cubren grandes variaciones de pose y desorden de fondo. Con este dataset podremos generar imágenes de rostros artificialmente.
 
 [Descargar](https://turing.iimas.unam.mx/~ivanvladimir/gans/celeba.zip)
 
-<b> * Al tener descargado el archivo comprimido debe subirse dicho archivo a su Google Drive personal en una carpeta facilmente ubicable junto a la notebook 'Artificial_Art_GAN's' que esta en este Github (se recomienda crear una carpeta llamada en el directorio raíz 'data_tutorial' con la notebook y el archivo comprimido del dataset elegido</b>
+<b> * Al tener descargado el archivo comprimido debe subirse dicho archivo a su Google Drive personal en una carpeta facilmente ubicable junto a la notebook 'Artificial_Art_GAN's' que esta en este Github (se recomienda crear una carpeta llamada en el directorio raíz 'data_tutorial' con la notebook y el archivo comprimido del dataset elegido) </b>
 
-<b> * Tener en cuenta que se requiere alrededor de 1.5 GB libres en su Google Drive personal</b>
+<b> * Tener en cuenta que se requiere alrededor de 1.5 GB libres en su Google Drive personal </b>
+
+---
+
+<b> 2. Configurar el entorno de Google Colab para el uso de GPU's </b>  
+
+Una vez alojada la notebook 'Artificial_Art_GAN' en el Google Drive debe poder abrir el archivo en el entorno de Google Colab, una vez dentro deberá dirigirse a la barra de herramientas en la sección de <b> Entorno de Ejecución </b> en la opción de <b> Cambiar tipo de entorno de Ejecución </b> como se muestra en la imagen ilustrativa.
+
+![image](https://user-images.githubusercontent.com/64985126/128061872-2ee99561-7a75-4fff-94c7-cd3aa5fbd597.png)
