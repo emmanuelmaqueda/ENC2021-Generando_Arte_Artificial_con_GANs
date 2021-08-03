@@ -6,6 +6,7 @@
 ![image](https://user-images.githubusercontent.com/64985126/127394241-6ce7df81-02b3-4c85-909a-0bbdf0043086.png)
 ![image](https://user-images.githubusercontent.com/64985126/127394299-dbc93063-b790-4731-aba5-e1f94bc2fc44.png)
 
+## Introducción
 
 Las redes neuronales en general son una técnica de la IA la cuál se encuentra en auge en el
 campo y son utilizadas usualmente, en especifico, las redes generativas adversarias (GANs) son
@@ -28,4 +29,11 @@ fotografías, con diseños etc.
 
 ## Instrucciones para los asistentes
 
-<b> 1. Descargar el dataset <b>  
+<b> 1. Descargar el dataset </b>  
+
+Para prepararse para el tutorial deberá tenerse descargado un dataset con el cúal se entrenará la red neuronal GAN, decidimos dar libertad en este sentido así que ponemos a disponibilidad dos conjuntos de datos para generación de imágenes: 
+
+      <b> 1.1 Monet </b>  
+      
+      Conjunto de aproximadamente 900 imágenes de obras artísticas de Monet junto con algunas fotografías de imágenes reales de paisajes. Con este dataset podremos generar   
+      imágenes artificiales de paisajes al estilo del arte de Monet
