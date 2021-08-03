@@ -71,9 +71,7 @@ Para verificar que la configuración fue exitosa podemos acudir a la esquina sup
 
 * Dentro de este mismo repositorio se encuentra un documento llamado 'Apuntes - Introducción a las redes neuronales' el cuál es una breve introducción a las redes neuronales y su funcionamiento, puede consultarse previo al tutorial para tener mas contexto de la temática del mismo.
 
-* Si se tiene un problema con alguno de los pasos antes mencionado no dude en contactarnos para ayudar a solucionarlo 
-
-[Contacto](mailto:dmaqueda71@gmail.com)
+* Si se tiene un problema con alguno de los pasos antes mencionados no dude en [contactarnos](mailto:dmaqueda71@gmail.com).
 
 <b> ¡ Nos vemos en unos días en el ENC 2021 ! &#128521; </b> 
 
