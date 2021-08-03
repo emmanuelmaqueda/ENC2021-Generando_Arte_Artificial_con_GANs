@@ -56,3 +56,8 @@ CelebFaces Attributes Dataset (CelebA) es un conjunto de datos de atributos faci
 Una vez alojada la notebook 'Artificial_Art_GAN' en el Google Drive debe poder abrir el archivo en el entorno de Google Colab, una vez dentro deberá dirigirse a la barra de herramientas en la sección de <b> Entorno de Ejecución </b> en la opción de <b> Cambiar tipo de entorno de Ejecución </b> como se muestra en la imagen ilustrativa.
 
 ![image](https://user-images.githubusercontent.com/64985126/128061872-2ee99561-7a75-4fff-94c7-cd3aa5fbd597.png)
+
+Al seleccionar la opción obtendrá una ventana emergente como la que se muestra en la imagen ilustrativa siguiente, ahi deberá seleccionar la opción de <b>GPU</b> en la sección de <b>Acelerador de Hardware</b>, al terminar se deberan guardar los cambios lo cual hará que el entorno de ejecución se reinicie con la configuración actual.
+
+![image](https://user-images.githubusercontent.com/64985126/128063503-b4ed7dd1-d90e-41f8-9be9-2160c91ef29c.png)
+
