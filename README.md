@@ -33,7 +33,5 @@ fotografías, con diseños etc.
 
 Para prepararse para el tutorial deberá tenerse descargado un dataset con el cúal se entrenará la red neuronal GAN, decidimos dar libertad en este sentido así que ponemos a disponibilidad dos conjuntos de datos para generación de imágenes: 
 
-      <b> 1.1 Monet </b>  
-      
-      Conjunto de aproximadamente 900 imágenes de obras artísticas de Monet junto con algunas fotografías de imágenes reales de paisajes. Con este dataset podremos generar   
-      imágenes artificiales de paisajes al estilo del arte de Monet
+<b> 1.1 Monet </b>
+Conjunto de aproximadamente 900 imágenes de obras artísticas de Monet junto con algunas fotografías de imágenes reales de paisajes. Con este dataset podremos generar imágenes artificiales de paisajes al estilo del arte de Monet
