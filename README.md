@@ -25,3 +25,7 @@ preguntas alimentando el generador de una GAN con obras de Rembrandt o de Monet 
 Kahlo y dando salida a imágenes nuevas a raíz de las iniciales. Lo mismo puede hacerse con
 fotografías, con diseños etc.
 [Más información](http://computo.fismat.umich.mx/enc2021/tutoriales/GAN.pdf)
+
+## Instrucciones para los asistentes
+
+<b> 1. Descargar el dataset <b>  
